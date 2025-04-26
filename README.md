@@ -26,9 +26,9 @@ Praktikum ini bertujuan untuk memberikan pemahaman mendalam tentang **pengembang
 
 | Variable           | Isi                         |
 | ------------------ | --------------------------- |
-| **Nama**           | Ahmad Ridho Septian         |
-| **NIM**            | 312310447                   |
-| **Kelas**          | TI.23.A.5                   |
+| **Nama**           | Sena Dwi Ilham Santoso      |
+| **NIM**            | 312310803                   |
+| **Kelas**          | TI.23.A.2                   |
 | **Mata Kuliah**    | Pemrograman Web 2           |
 | **Dosen Pengampu** | Agung Nugroho S.kom., M.kom |
 
